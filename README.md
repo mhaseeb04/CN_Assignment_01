@@ -1,16 +1,12 @@
-Class Name: BSAIF23-[BLUE]
+Class/Section:BSAIF23-Red
 
 Group Members:
 
-    Group Leader:
-        Name: Faiq Ali Sajjad
-        Registration Number: B23F0413AI081
-
-    Second Member :
-        Name: Najam Ali
-        Registration Number:
-
-    Third Member :
-        Name: Waqar Ali
-        Registration Number:
-
+        Name: Muhammad Haseeb
+        Registration Number: B23F0083AI116
+        
+        Name: Qazi Ahmed Hassan
+        Registration Number: B23F0347AI134
+        
+        Name: Hamza Saboor
+        Registration Number: B23F0066AI138
